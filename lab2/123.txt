@@ -1,0 +1,27 @@
+For all courses, constant review of new knowledges would be helpful and efficient.
+New concepts can be easily forgotten or misunderstand, but timely review can
+keep them fresh. It may took 1 or 2 hours to review new knowledge every night,
+but it will make the knowledge concise and organized in the long term.
+ECE345: This course has a group homework: group of 2 or 3 people solving
+together around 7 problems. There will be task assigned for each person. But it
+would be good practice to at least understand the procedure of every homework
+problem, not just only my share of problem.
+ECE344: Lab is a big part of the course. It tests understanding of course materials
+taught in class. Each lab is posted 2 weeks before deadline. It is important not to
+wait until the last second. So I am planning to read the lab handout as soon as it
+gets posted. Even if I do not have time to do it right away, I still have a impression
+about what I need to do in 2 weeks so that I can assign reasonable time for the task.
+ECE302: This is basically a Math class. Generally, for all Math classes, the most
+efficient way to study is learning by practice. Before weekly assignments/quizzes, I
+would solve all the assigned problems, and it should not take long, one hour break
+between classes should be enough.
+ECE311: This course is a combination of Dynamics, Circuit and ODEs. Same as
+ECE302, the more practice I have done, the more techniques I would acquire.
+There are several assigned problems about every two weeks. Although it is not
+marked for correctness, I will try to get the right answer of each problem.
+ECE361: This course teaches plenty of protocols, which involves a number of
+concept to remember. I think the way to success is to constantly review lecture
+notes, and read relative pages on textbook. Also, asking peers to check my
+understanding would provided reflection of my learning quality.
+APS100: Follow the schedule of assignment. Get involved in the course activity.
+Communicating with peers to see if they have better strategies of learning.
